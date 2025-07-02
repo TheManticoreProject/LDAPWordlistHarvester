@@ -55,5 +55,5 @@ Usage: LDAPWordlistHarvester --domain <string> --username <string> [--password <
 Pull requests are welcome. Feel free to open an issue if you want to add other features.
 
 ## Credits
-  - [Remi GASCOU (Podalirius)](https://github.com/p0dalirius) for the creation of the [LDAPWordlistHarvester](https://github.com/p0dalirius/LDAPWordlistHarvester) project before transferring it to TheManticoreProject.
+  - [Remi GASCOU (Podalirius)](https://github.com/p0dalirius) for the creation of the python version [pyLDAPWordlistHarvester](https://github.com/p0dalirius/pyLDAPWordlistHarvester) project before creating it in Go in TheManticoreProject.
 
